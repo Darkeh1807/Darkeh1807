@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Elijah Darkeh and I'm a Software developer, from Accra Ghana</h2>
+<h2 align="left">Hi 👋! My name is Elijah Darkeh and I'm a Software developer, from Accra-Ghana</h2>
 
 ###
 
