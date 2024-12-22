@@ -34,7 +34,7 @@ I'm a passionate software developer with a strong foundation in both front-end a
 - **Prompt engineering**
 
 ### 🔥 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-profile) 
+- [LinkedIn](https://www.linkedin.com/in/elijah-dakerh-87a6a5216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - [Twitter](https://x.com/ElijahAgbedam?t=FkSMYfShNgWD8U5dXpdhjQ&s=09) 
 - [Personal Website](https://your-website.com)
 
