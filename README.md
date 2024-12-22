@@ -24,7 +24,8 @@ I'm a passionate software developer with a strong foundation in both front-end a
 
 - **Other Tools**:  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /> Git  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="30" alt="postman logo" /> Postman
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="30" alt="postman logo" /> Postman  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" /> Java
 
 ### 🌱 Currently Learning:
 - **Advanced Flutter Techniques**
