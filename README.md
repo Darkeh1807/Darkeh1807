@@ -35,7 +35,7 @@ I'm a passionate software developer with a strong foundation in both front-end a
 
 ### 🔥 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/your-profile) 
-- [Twitter](https://twitter.com/your-profile) 
+- [Twitter](https://x.com/ElijahAgbedam?t=FkSMYfShNgWD8U5dXpdhjQ&s=09) 
 - [Personal Website](https://your-website.com)
 
 ### 📈 GitHub Stats
