@@ -1,4 +1,4 @@
-# Hi there, I'm Agbedam Darkeh Elijah 👋
+# Hi there, I'm Elijah Darkeh 👋
 
 ## Software Developer | Problem Solver | Lifelong Learner
 
@@ -39,7 +39,7 @@ I'm a passionate software developer with a strong foundation in both front-end a
 - [Personal Website](https://portfolio-darkeh1807s-projects.vercel.app/)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkeh1807&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkeh1807&layout=compact&theme=radical&langs_count=10&card_width=500&hide_border=true)
 
 ### 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkeh1807&layout=compact&theme=radical&langs_count=10&card_width=500&hide_border=true)
