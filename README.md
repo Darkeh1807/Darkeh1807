@@ -41,6 +41,9 @@ I'm a passionate software developer with a strong foundation in both front-end a
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkeh1807&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkeh1807&layout=compact&theme=radical&langs_count=10&card_width=500&hide_border=true)
+
 ### ⚡ Fun Fact
 When I'm not coding, I'm either learning something new, reading about tech trends, or watching FC Barcelona matches!
 
