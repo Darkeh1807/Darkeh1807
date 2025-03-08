@@ -39,10 +39,10 @@ I'm a passionate software developer with a strong foundation in both front-end a
 - [Personal Website](https://portfolio-darkeh1807s-projects.vercel.app/)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkeh1807&layout=compact&theme=radical&langs_count=10&card_width=500&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&layout=compact&theme=radical&langs_count=10&card_width=500&hide_border=true)
 
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkeh1807&layout=compact&theme=radical&langs_count=10&card_width=500&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&langs_count=10&card_width=500&hide_border=true)
 
 ### ⚡ Fun Fact
 When I'm not coding, I'm either learning something new, reading about tech trends, or watching FC Barcelona matches!
